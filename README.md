@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working a Machine Learning Project<br>🤝 I’m looking for help with Data Structure and Algorithms<br>🌱 I’m currently learning React<br>💬 Ask me about Python
+🔭 I’m currently working a Machine Learning Project<br>🤝 I’m looking for help with Data Structure and Algorithms<br>🌱 I’m currently learning MLOps<br>💬 Ask me anything about Python
 
 
 ## 🌐 Socials:
