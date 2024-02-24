@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Next.js Project <br>🤝 I’m looking for help with Data Structure and Algorithms<br>💬 Ask me anything about Python
+🔭 I’m currently working on a .NET Project <br>🤝 I’m looking for help with Data Structure and Algorithms<br>💬 Ask me anything about Python
 
 
 ## 🌐 Socials:
