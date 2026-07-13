@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaif Ali</h1>
+<h1 align="center">Hi 👋, I'm Kaif</h1>
 
 <p align="center">
 Software Engineer • Backend Developer • Homelab Enthusiast • Building software that lasts
